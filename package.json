@@ -1,5 +1,5 @@
 {
-  "name": "amazona",
+  "name": "paglipay-amazona",
   "type": "module",
   "version": "1.0.0",
   "description": "Ecommerce website like amazon",
@@ -28,7 +28,7 @@
     "multer": "^1.4.2"
   },
   "devDependencies": {
-    "eslint": "^7.9.0",
+    "eslint": "^6.6.0",
     "eslint-plugin-react": "^7.21.2",
     "nodemon": "^2.0.4"
   },
